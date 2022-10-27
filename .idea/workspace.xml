@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aefa16f2-d2be-4681-8200-ab082811e801" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="aefa16f2-d2be-4681-8200-ab082811e801" name="Changes" comment="DONE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythagoras.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fileExplorer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BabaCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xerox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greetings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664098984431</updated>
     </task>
+    <task id="LOCAL-00001" summary="DONE">
+      <created>1664168431364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664168431364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE" />
   </component>
 </project>

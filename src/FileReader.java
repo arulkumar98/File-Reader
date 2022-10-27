@@ -6,14 +6,14 @@ public class FileReader extends Greetings {
         int count = 0;
         try {
             File file = new File("sample.java");
-            Scanner sc = new Scanner(file);
-            while(sc.hasNextLine()) {
-                sc.nextLine();
+            Scanner scanner = new Scanner(file);
+            while(scanner.hasNextLine()) {
+                scanner.nextLine();
                 count++;
             }
             System.out.println(counting + count);
             System.out.println();
-            sc.close();
+            scanner.close();
         } catch (Exception e) {
             e.getStackTrace();
         }
